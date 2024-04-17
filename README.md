@@ -52,6 +52,9 @@ Explore these great resources to further your understanding and application of Q
 - [Mermaid Live Editor](https://mermaid.live/) - Diagramming and visualization tool.
 - [YouAI](https://youai.ai/) - Platform for integrating AI solutions in healthcare.
 - [PromptRefine](https://www.promptrefine.com/prompt/new) - Develop and refine AI-driven prompts for medical applications.
+- [Kaggle hackathon on grading essays](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2/overview) - compete if you dare
+- [NYU NOT PROMPT NEJM PUBLICATION][https://catalyst.nejm.org/doi/full/10.1056/CAT.23.0283]
+- [google sheets](https://docs.google.com/spreadsheets/d/1L-Y67q8aHRkhus0aRIK_flYucJXG03Lp2nUd7PMWJjo/edit#gid=0)
 
 ## ⚖️ License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
