@@ -1,62 +1,92 @@
-<img width="1023" alt="image" src="https://github.com/Artificial-Intelegence-for-QI-in-GME/.github/assets/117528222/569c6694-dabc-4ce6-9077-d06a2186b781">
+<!-- Banner Image -->
+<p align="center">
+  <img width="1024" alt="AI for QI Banner" src="https://github.com/Artificial-Intelligence-for-QI-in-GME/.github/assets/117528222/569c6694-dabc-4ce6-9077-d06a2186b781">
+</p>
 
-![AI for QI Banner](attachment://Create_a_digital_banner_image_for_a_GitHub_README_.png)
-
+<!-- Badges -->
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/Artificial-Intelegence-for-QI-in-GME/.github?style=social)
-![Forks](https://img.shields.io/github/forks/Artificial-Intelegence-for-QI-in-GME/.github?style=social)
-![Contributors](https://img.shields.io/github/contributors/Artificial-Intelegence-for-QI-in-GME/.github)
-![Issues](https://img.shields.io/github/issues/Artificial-Intelegence-for-QI-in-GME/.github)
-![Pull Requests](https://img.shields.io/github/issues-pr/Artificial-Intelegence-for-QI-in-GME/.github)
+[![Stars](https://img.shields.io/github/stars/Artificial-Intelligence-for-QI-in-GME/.github?style=social)](https://github.com/Artificial-Intelligence-for-QI-in-GME/.github/stargazers)
+[![Forks](https://img.shields.io/github/forks/Artificial-Intelligence-for-QI-in-GME/.github?style=social)](https://github.com/Artificial-Intelligence-for-QI-in-GME/.github/forks)
+[![Contributors](https://img.shields.io/github/contributors/Artificial-Intelligence-for-QI-in-GME/.github)](https://github.com/Artificial-Intelligence-for-QI-in-GME/.github/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/Artificial-Intelligence-for-QI-in-GME/.github)](https://github.com/Artificial-Intelligence-for-QI-in-GME/.github/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Artificial-Intelligence-for-QI-in-GME/.github)](https://github.com/Artificial-Intelligence-for-QI-in-GME/.github/pulls)
 
 </div>
 
+---
+
 ## 📖 Table of Contents
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Using AI for QI](#using-ai-for-qi)
-- [Projects for AI-driven QI](#projects-for-ai-driven-qi)
-- [Quality Improvement Resources](#quality-improvement-resources)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Getting Started](#-getting-started)
+- [Using AI for QI](#-using-ai-for-qi)
+- [Projects for AI-driven QI](#-projects-for-ai-driven-qi)
+- [AI Resources](#-ai-resources)
+- [License](#️-license)
+
+---
 
 ## 🌟 Introduction
-Welcome to **AI for QI**—a collaborative platform where healthcare professionals can utilize artificial intelligence to enhance quality improvement initiatives. Here, your clinical concerns are analyzed, measured, and addressed with cutting-edge AI tools to facilitate better patient outcomes.
+**AI for QI** is a collaborative platform designed to integrate artificial intelligence into clinical quality improvement (QI). Our mission is to help healthcare professionals identify, measure, and solve quality issues using state-of-the-art AI tools—improving patient outcomes through smarter, data-driven decisions.
+
+---
 
 ## 🚀 Getting Started
-To start using AI for QI, clone this repository and follow the installation instructions in `INSTALL.md`. Make sure you have all the necessary dependencies installed.
+1. **Clone this repository**  
+   ```bash
+   git clone https://github.com/Artificial-Intelligence-for-QI-in-GME/.github.git
 
-## 🤖 Using AI for QI
-1. **Define Your Problem:** Clearly state your clinical concern using the text input tool.
-2. **Analyze and Measure:** Utilize AI models to analyze the data and provide metrics.
-3. **Simulate Interventions:** Test potential solutions in a simulated environment.
-4. **Implement and Verify:** Apply the best solutions in a real-world setting and verify their effectiveness.
+	2.	Follow setup instructions in INSTALL.md to configure dependencies and tools.
+	3.	Begin exploring and contributing to QI projects with AI support.
 
-## 🌐 Projects for AI-driven QI
-- **Project 1:** Prompts for AI for QI — leveraging AI prompts to develop effective quality improvement strategies.
-- **Project 2:** Ambient technology derived transcript evaluation for Healthcare continuous improvement.
-- **Project 3:** Prompts for clinical note creation and enhancement — enhancing the precision, readability, and utility of clinical documentation.
-- **Project 4:** Teaching material creation - Creating Just In Time Training, rapid feedings of the mind, case based teaching materials, presentations, journal club presentations, Grand Round presentations, and use of illness scripts.
-- **Project 5:** Rapid Clinical Decision Support System review and updates.
-- **Project 6:** Case report publishing creation [Case Reports Guide](https://guides.himmelfarb.gwu.edu/casereports).
-- **Project 7:** Grant writing guidance prompts and MM review tools [AHRQ MM](https://psnet.ahrq.gov/webmm-case-studies).
-- **Project 8:** Root cause analysis and diagnostic error evaluation.
+⸻
 
-## 🛠 AI Resources
-Explore these great resources to further your understanding and application of Quality Improvement:
-- [Avo Builder](https://build.avomd.io/try-avo-builder) - Tool for clinical decision support.
-- [Taskade](https://www.taskade.com/) - Collaborative tool for task management.
-- [Draw.io](https://draw.io/) - Diagram software for flowcharts and organizational charts.
-- [Goblin Tools](https://goblin.tools/) - Utilities for various calculations and conversions.
-- [Typeset](https://typeset.io/) - Tool for research writing and formatting.
-- [Mermaid Live Editor](https://mermaid.live/) - Diagramming and visualization tool.
-- [YouAI](https://youai.ai/) - Platform for integrating AI solutions in healthcare.
-- [PromptRefine](https://www.promptrefine.com/prompt/new) - Develop and refine AI-driven prompts for medical applications.
-- [Kaggle hackathon on grading essays](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2/overview) - compete if you dare
-- [NYU NOT PROMPT NEJM PUBLICATION][https://catalyst.nejm.org/doi/full/10.1056/CAT.23.0283]
-- [google sheets](https://docs.google.com/spreadsheets/d/1L-Y67q8aHRkhus0aRIK_flYucJXG03Lp2nUd7PMWJjo/edit#gid=0)
+🤖 Using AI for QI
+	1.	Define Your Problem – Clearly articulate the clinical or process concern.
+	2.	Analyze and Measure – Use AI models to quantify the issue and identify key metrics.
+	3.	Simulate Interventions – Test potential solutions in a risk-free environment.
+	4.	Implement and Verify – Deploy validated strategies and monitor real-world impact.
 
-## ⚖️ License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+⸻
 
-[Back to Top](#table-of-contents)
+🌐 Projects for AI-driven QI
+	•	Project 1: Prompt Engineering for QI Strategy Development
+	•	Project 2: Transcript Analysis for Continuous Improvement
+	•	Project 3: Smart Clinical Note Optimization
+	•	Project 4: On-Demand Teaching Materials
+	•	JIT training, case-based teaching, journal club and grand rounds presentations
+	•	Project 5: Clinical Decision Support System Review
+	•	Project 6: Case Report Generation
+	•	GWU Case Reports Guide
+	•	Project 7: Grant Writing & Morbidity and Mortality Tools
+	•	AHRQ WebM&M
+	•	Project 8: RCA & Diagnostic Error Evaluation
+
+⸻
+
+🛠 AI Resources
+	•	Avo Builder
+	•	Taskade
+	•	Draw.io
+	•	Goblin Tools
+	•	Typeset
+	•	Mermaid Live Editor
+	•	YouAI
+	•	PromptRefine
+	•	Kaggle: Essay Grading Challenge
+	•	NEJM Catalyst AI Evaluation
+	•	Shared Google Sheet Resource
+
+⸻
+
+⚖️ License
+
+This project is licensed under the MIT License. See LICENSE.md for more details.
+
+⸻
+
+
+
+<p align="center">
+  <a href="#table-of-contents">⬆️ Back to Top</a>
+</p>
